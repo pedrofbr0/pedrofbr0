@@ -1,6 +1,6 @@
 ### Greetings fellow dev! Name's Pedro 👋
 
-- 🔭 I’m currently working as Full Stack Developer [@AOYIATechnology](https://gitlab.com/aoyiatechnology)
+- 🔭 I’m currently working as Full Stack Developer for [@Opah IT](https://www.opah.com.br/) and [@CVC](https://www.cvc.com.br/)
 - 🌱 I’m currently learning about Data Science and Machine Learning
 - 👯 I’m looking to collaborate on Educational, Social Impact and Health-Politcs projects, especially related to Covid-19 projects
 - 💬 Ask me about '[Python, JAVA, JavaScript, React.JS, Node.JS, Imagem Processing, Data Mining]'
